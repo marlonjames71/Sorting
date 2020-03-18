@@ -25,11 +25,11 @@ def selection_sort( arr ):
         #         smallest_index = j`
     return arr
 
-# my_list3 = [7,3,8,5,11,9,4]
-# my_list2 = [6,4,8,3,0,1,2,9]
+my_list3 = [7,3,8,5,11,9,4]
+my_list2 = [6,4,8,3,0,1,2,9]
 
-# print(selection_sort(my_list2))
-# print(selection_sort(my_list2))
+print(selection_sort(my_list2))
+print(selection_sort(my_list2))
 
 
 my_nums = [5,3,8,6,7,2]
@@ -48,8 +48,8 @@ def bubble_sort(arr):
     return arr
 
 
-print(bubble_sort(my_nums))
-print(bubble_sort(my_nums2))
+# print(bubble_sort(my_nums))
+# print(bubble_sort(my_nums2))
 
 
 # STRETCH: implement the Count Sort function below

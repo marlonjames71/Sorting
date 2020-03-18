@@ -40,6 +40,8 @@
 def merge(arrA, arrB):
     elements = len(arrA) + len(arrB)
     merged_arr = [0] * elements
+    
+    print(merged_arr)
     # Given 2 arrays
     # Combine into sorted array
     a = 0
